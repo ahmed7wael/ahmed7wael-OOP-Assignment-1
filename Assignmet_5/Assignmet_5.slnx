@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BuilderPattern/BuilderPattern.csproj" Id="be023ab3-2ddc-4a6b-809b-8c18ccc7f4c4" />
+  <Project Path="HotelReservationSystem/HotelReservationSystem.csproj" Id="b568abaf-2aa5-4885-a2af-d11514903fe1" />
+  <Project Path="ProceduralToOOP/ProceduralToOOP.csproj" />
+</Solution>
